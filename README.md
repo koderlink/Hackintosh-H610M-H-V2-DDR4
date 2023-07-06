@@ -4,7 +4,7 @@
 | OpenCore 0.9.3 | Ventura 13.4.1 |
 
 ##
-| Item        | Name                          |
+| Name        | Detail                        |
 |-------------|-------------------------------|
 | Motherboard | GigaByte H610M H V2 DDR4      |
 | Processor   | Intel Core i3 12100F          |
