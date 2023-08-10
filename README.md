@@ -17,4 +17,4 @@
 - https://github.com/byakkili/Hackintosh-H610M-12400-RX460
 
 ## PoC
-![Image text](screenshot/1.png)
+![Image text](spec.png)
